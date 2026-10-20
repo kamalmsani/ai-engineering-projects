@@ -21,4 +21,4 @@ Hi, I'm Muhammad Kamaluddeen. This is where I keep my AI Engineering practice pr
 2. Create a file named `.env` and add: `GEMINI_API_KEY=your-key-here`
 3. Open `gemini-test.ipynb` and run the cells
 
-My API key is stored in `.env` and is
+My API key is stored in `.env` and is never uploaded to GITHUB.
